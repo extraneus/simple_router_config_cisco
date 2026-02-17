@@ -5,7 +5,7 @@ This project demonstrates basic routing between two different LAN networks using
 
 Two separate networks are connected through a router, and **PC IP addresses and default gateways are manually configured** to enable communication.
 
-This is foundational networking — the kind you’re expected to know without blinking.
+
 
 ---
 
