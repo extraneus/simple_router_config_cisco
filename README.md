@@ -1,8 +1,3 @@
-Good catch. That’s an important detail — routers don’t magically fix bad PC configs. If the default gateway isn’t set manually on each PC, inter-network communication won’t work. Period.
-
-Here’s the updated, complete README including manual PC configuration.
-
----
 
 # 🖧 Simple Two-Network Routing Project (Cisco Packet Tracer)
 
